@@ -3,14 +3,14 @@
 
 <h2>Getting Started</h2>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Tools used : Java, Rest
 
 <h2>Prerequisites</h2>
-What things you need to install the software and how to install them
+IDE such as -> eclipse, Intellij or STS
 
 <h2>Installation</h2>
-A step by step series of examples that tell you how to get a development env running
+Imported the project to a ide. You can use Tomcat or Jboss server to run the application. Use postman to test the give url's
 
-Say what the step will be
 
 <h2>Built With</h2>
 Maven - Dependency Management
